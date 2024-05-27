@@ -1,18 +1,26 @@
----
-extends: default
-rules:
-  indentation:
-    spaces: 2
-    indent-sequences: true
-  document-start:
-    present: true
-    ignore: |
-      examples/*.yaml
-  line-length: disable
-  colons:
-    max-spaces-before: 0
-    max-spaces-after: 1
-  truthy:
-    ignore: |
-      *.yml
-      *.yaml
+                         Metaverse in Education
+                                 |
+    ----------------------------------------------------------------------
+    |              |                  |               |                  |                  |                 |                |
+Technological  Pedagogical   Educational  Student       Teacher        Accessibility Ethical &       Future
+Infrastructure Approaches    Content      Engagement    Training &     & Inclusivity   Social         Trends &
+                             & Curriculum & Motivation  Development                   Considerations  Innovations
+    |              |            |              |               |              |               |                |
+    |              |            |              |               |              |               |                |
+ VR/AR/MR      Immersive     Curriculum    Gamification    Training      Universal        Data         Emerging
+ Equipment     Learning      Integration                  Programs       Design for       Privacy      Technologies
+    |              |            |              |               |         Learning            |                |
+    |              |            |              |               |              |           Digital        Research &
+ Connectivity  Experiential   Content       Interactivity   Teaching      Equity in       Wellbeing      Development
+                 Learning     Development                   Tools         Access              |                |
+    |              |            |              |               |              |           Equity &        Scalability
+    |              |            |              |               |              |           Access              |
+    |          Collaborative  Assessment     Intrinsic       Support       Special        Social         Global
+    |            Learning    & Evaluation    Motivation      Systems       Education      Interaction    Trends
+    |              |            |              |               |              |               |                |
+    |           Personalized  Multimodal    Extrinsic    Pedagogical      Cultural        Fair Access  International
+    |            Learning     Learning      Motivation     Strategies     Inclusivity     for All       Collaborations
+    |
+Network
+Security
+
